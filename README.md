@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gorkemiskeceli
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently getting better at Java, SQL, SpringBooy, PostgreSQl, Redis, Microcservices, Kafka.
+- 🌱 I’m currently getting better at Java, SQL, SpringBoot, PostgreSQl, Redis, Microcservices, Kafka.
 - 📫 How to reach me mgiskec@gmail.com
 - 📫 Here is my linkedIn profile https://www.linkedin.com/in/muhammet-görkem-iskeçeli/
 
