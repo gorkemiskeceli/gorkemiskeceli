@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @gorkemiskeceli<br>👀 I’m interested in backend development.<br>🌱 I’m currently getting better at Java, SQL, SpringBoot, PostgreSQl, Redis, Microcservices, Kafka.<br>📫 How to reach me mgiskec@gmail.com<br>📫 Here is my linkedIn profile https://www.linkedin.com/in/muhammet-görkem-iskeçeli/
+👋 Hi, I’m @gorkemiskeceli<br>👀 I’m working on backend development and trying to be fullstack developer.<br>🌱 I’m currently getting better at Java, SQL, SpringBoot, PostgreSQl, Redis, Microcservices, Kafka, HTML5, CSS3, JavaScript, React.<br>📫 How to reach me mgiskec@gmail.com<br>📫 Here is my linkedIn profile https://www.linkedin.com/in/muhammet-görkem-iskeçeli/
 
 
 ## 🌐 Socials:
